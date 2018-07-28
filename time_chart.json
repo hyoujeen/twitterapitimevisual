@@ -1,0 +1,2691 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "title": "Time",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "title": "Freq",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:43:38 +0000 2018",
+          "val": 37
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:43:41 +0000 2018",
+          "val": 72
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:43:48 +0000 2018",
+          "val": 31
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:44:13 +0000 2018",
+          "val": 32
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:45:57 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:45:59 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:46:15 +0000 2018",
+          "val": 80
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:46:25 +0000 2018",
+          "val": 93
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:46:31 +0000 2018",
+          "val": 92
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:46:56 +0000 2018",
+          "val": 60
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:00 +0000 2018",
+          "val": 38
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:03 +0000 2018",
+          "val": 60
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:08 +0000 2018",
+          "val": 71
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:15 +0000 2018",
+          "val": 87
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:21 +0000 2018",
+          "val": 59
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:22 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:28 +0000 2018",
+          "val": 34
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:43 +0000 2018",
+          "val": 63
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:48 +0000 2018",
+          "val": 40
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:49:26 +0000 2018",
+          "val": 68
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:49:48 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:50:18 +0000 2018",
+          "val": 27
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:50:43 +0000 2018",
+          "val": 48
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:50:47 +0000 2018",
+          "val": 82
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:51:00 +0000 2018",
+          "val": 36
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:51:02 +0000 2018",
+          "val": 21
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:51:18 +0000 2018",
+          "val": 84
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:51:32 +0000 2018",
+          "val": 93
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:52:02 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:52:02 +0000 2018",
+          "val": 97
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:52:09 +0000 2018",
+          "val": 75
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:52:18 +0000 2018",
+          "val": 78
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:52:37 +0000 2018",
+          "val": 44
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:53:16 +0000 2018",
+          "val": 82
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:53:40 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:53:50 +0000 2018",
+          "val": 95
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:54:15 +0000 2018",
+          "val": 56
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:56:04 +0000 2018",
+          "val": 96
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:56:33 +0000 2018",
+          "val": 53
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:56:35 +0000 2018",
+          "val": 82
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:56:36 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:56:37 +0000 2018",
+          "val": 71
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:56:43 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:56:54 +0000 2018",
+          "val": 80
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:57:08 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:57:23 +0000 2018",
+          "val": 40
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:57:34 +0000 2018",
+          "val": 24
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:57:37 +0000 2018",
+          "val": 78
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:57:52 +0000 2018",
+          "val": 82
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:57:53 +0000 2018",
+          "val": 42
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:58:37 +0000 2018",
+          "val": 74
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:58:55 +0000 2018",
+          "val": 77
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:58:55 +0000 2018",
+          "val": 88
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:58:58 +0000 2018",
+          "val": 89
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:59:02 +0000 2018",
+          "val": 75
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:59:03 +0000 2018",
+          "val": 51
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:59:14 +0000 2018",
+          "val": 57
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:59:27 +0000 2018",
+          "val": 91
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:59:58 +0000 2018",
+          "val": 50
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:01 +0000 2018",
+          "val": 100
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:02 +0000 2018",
+          "val": 69
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:04 +0000 2018",
+          "val": 77
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:06 +0000 2018",
+          "val": 66
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:08 +0000 2018",
+          "val": 70
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:19 +0000 2018",
+          "val": 47
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:22 +0000 2018",
+          "val": 90
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:26 +0000 2018",
+          "val": 24
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:28 +0000 2018",
+          "val": 26
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:28 +0000 2018",
+          "val": 23
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:33 +0000 2018",
+          "val": 50
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:54 +0000 2018",
+          "val": 84
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:55 +0000 2018",
+          "val": 99
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:55 +0000 2018",
+          "val": 64
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:55 +0000 2018",
+          "val": 24
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:55 +0000 2018",
+          "val": 71
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:59 +0000 2018",
+          "val": 82
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:01:07 +0000 2018",
+          "val": 73
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:01:24 +0000 2018",
+          "val": 61
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:01:28 +0000 2018",
+          "val": 62
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:01:37 +0000 2018",
+          "val": 56
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:01:41 +0000 2018",
+          "val": 48
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:01:48 +0000 2018",
+          "val": 57
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:02:03 +0000 2018",
+          "val": 69
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:02:17 +0000 2018",
+          "val": 64
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:02:17 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:02:37 +0000 2018",
+          "val": 32
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:03:04 +0000 2018",
+          "val": 62
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:03:20 +0000 2018",
+          "val": 78
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:12:10 +0000 2018",
+          "val": 55
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:22:28 +0000 2018",
+          "val": 47
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:18:05 +0000 2018",
+          "val": 82
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:26:37 +0000 2018",
+          "val": 36
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:22:11 +0000 2018",
+          "val": 73
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:26:42 +0000 2018",
+          "val": 77
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:19:22 +0000 2018",
+          "val": 31
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:29:54 +0000 2018",
+          "val": 20
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:26:49 +0000 2018",
+          "val": 43
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:36:19 +0000 2018",
+          "val": 23
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:18:51 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:26:04 +0000 2018",
+          "val": 49
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:26:13 +0000 2018",
+          "val": 91
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:29:44 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:21:18 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:19:54 +0000 2018",
+          "val": 62
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:18:38 +0000 2018",
+          "val": 55
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:18:35 +0000 2018",
+          "val": 81
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:27:21 +0000 2018",
+          "val": 94
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:38:03 +0000 2018",
+          "val": 91
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:27:24 +0000 2018",
+          "val": 25
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:22:57 +0000 2018",
+          "val": 90
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:23:11 +0000 2018",
+          "val": 71
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:22:25 +0000 2018",
+          "val": 100
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:50 +0000 2018",
+          "val": 71
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:44:10 +0000 2018",
+          "val": 53
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:20:01 +0000 2018",
+          "val": 57
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:52:30 +0000 2018",
+          "val": 89
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:41:25 +0000 2018",
+          "val": 23
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:28:18 +0000 2018",
+          "val": 42
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:34:58 +0000 2018",
+          "val": 51
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:22:21 +0000 2018",
+          "val": 65
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:24:44 +0000 2018",
+          "val": 83
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:28:28 +0000 2018",
+          "val": 31
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:50:29 +0000 2018",
+          "val": 32
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:21:13 +0000 2018",
+          "val": 67
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:08:00 +0000 2018",
+          "val": 25
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:28:34 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:40:52 +0000 2018",
+          "val": 77
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:45:51 +0000 2018",
+          "val": 67
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:57:35 +0000 2018",
+          "val": 23
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:28:31 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:12:16 +0000 2018",
+          "val": 70
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:23:08 +0000 2018",
+          "val": 93
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:21 +0000 2018",
+          "val": 38
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:05 +0000 2018",
+          "val": 55
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:41:49 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:27:12 +0000 2018",
+          "val": 43
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:37:19 +0000 2018",
+          "val": 88
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:03:53 +0000 2018",
+          "val": 84
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:29:11 +0000 2018",
+          "val": 83
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:47:42 +0000 2018",
+          "val": 36
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:59:00 +0000 2018",
+          "val": 63
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:18:25 +0000 2018",
+          "val": 51
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:06:28 +0000 2018",
+          "val": 74
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:01:10 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:15:59 +0000 2018",
+          "val": 44
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:21:58 +0000 2018",
+          "val": 22
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:51:28 +0000 2018",
+          "val": 41
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:12:28 +0000 2018",
+          "val": 73
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:51:55 +0000 2018",
+          "val": 94
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:29:42 +0000 2018",
+          "val": 77
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:41:53 +0000 2018",
+          "val": 93
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:29:43 +0000 2018",
+          "val": 51
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:29:45 +0000 2018",
+          "val": 31
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:09:40 +0000 2018",
+          "val": 81
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:29:54 +0000 2018",
+          "val": 52
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:30:13 +0000 2018",
+          "val": 53
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:18:29 +0000 2018",
+          "val": 34
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:30:01 +0000 2018",
+          "val": 76
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:54:17 +0000 2018",
+          "val": 22
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:30 +0000 2018",
+          "val": 47
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:52:29 +0000 2018",
+          "val": 39
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:40:16 +0000 2018",
+          "val": 77
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:45:03 +0000 2018",
+          "val": 31
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:01 +0000 2018",
+          "val": 50
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:08:59 +0000 2018",
+          "val": 82
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:30:11 +0000 2018",
+          "val": 94
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:09:18 +0000 2018",
+          "val": 97
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:18:36 +0000 2018",
+          "val": 53
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:19:46 +0000 2018",
+          "val": 62
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:30:50 +0000 2018",
+          "val": 42
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:30:51 +0000 2018",
+          "val": 38
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:51:54 +0000 2018",
+          "val": 93
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:30:51 +0000 2018",
+          "val": 87
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:13 +0000 2018",
+          "val": 95
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:30:51 +0000 2018",
+          "val": 50
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:27:40 +0000 2018",
+          "val": 42
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:38 +0000 2018",
+          "val": 23
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:30:51 +0000 2018",
+          "val": 52
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:18:02 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:13:06 +0000 2018",
+          "val": 26
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:57:02 +0000 2018",
+          "val": 88
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:47:38 +0000 2018",
+          "val": 54
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:51:56 +0000 2018",
+          "val": 35
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:13 +0000 2018",
+          "val": 84
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:56:34 +0000 2018",
+          "val": 40
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:46:55 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:13:37 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:59:19 +0000 2018",
+          "val": 83
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:31:40 +0000 2018",
+          "val": 94
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:30:51 +0000 2018",
+          "val": 78
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:39:27 +0000 2018",
+          "val": 57
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:46:14 +0000 2018",
+          "val": 100
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:03:46 +0000 2018",
+          "val": 55
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:07:57 +0000 2018",
+          "val": 59
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:46 +0000 2018",
+          "val": 48
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:12:06 +0000 2018",
+          "val": 73
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:31:59 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:26:42 +0000 2018",
+          "val": 80
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:18:38 +0000 2018",
+          "val": 83
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:47:03 +0000 2018",
+          "val": 91
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:01:31 +0000 2018",
+          "val": 56
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:00:50 +0000 2018",
+          "val": 43
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:39:33 +0000 2018",
+          "val": 68
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:55:14 +0000 2018",
+          "val": 48
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:32:23 +0000 2018",
+          "val": 36
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:12:46 +0000 2018",
+          "val": 91
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:31:19 +0000 2018",
+          "val": 70
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:52:52 +0000 2018",
+          "val": 34
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:39:12 +0000 2018",
+          "val": 99
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:48:02 +0000 2018",
+          "val": 70
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:32:41 +0000 2018",
+          "val": 43
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:32:48 +0000 2018",
+          "val": 47
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:32:50 +0000 2018",
+          "val": 34
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:01:54 +0000 2018",
+          "val": 76
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:00:31 +0000 2018",
+          "val": 97
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:16:15 +0000 2018",
+          "val": 89
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:49:15 +0000 2018",
+          "val": 72
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:33:12 +0000 2018",
+          "val": 44
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:33:11 +0000 2018",
+          "val": 96
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:33:24 +0000 2018",
+          "val": 42
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:33:47 +0000 2018",
+          "val": 24
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:48:03 +0000 2018",
+          "val": 44
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:33:57 +0000 2018",
+          "val": 88
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:34:02 +0000 2018",
+          "val": 68
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:01:05 +0000 2018",
+          "val": 75
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:34:15 +0000 2018",
+          "val": 41
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:34:21 +0000 2018",
+          "val": 69
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:33:21 +0000 2018",
+          "val": 100
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:02:46 +0000 2018",
+          "val": 51
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:19:17 +0000 2018",
+          "val": 68
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:24:40 +0000 2018",
+          "val": 97
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 17:57:00 +0000 2018",
+          "val": 50
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:34:36 +0000 2018",
+          "val": 72
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:30:10 +0000 2018",
+          "val": 71
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:34:46 +0000 2018",
+          "val": 39
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:08:13 +0000 2018",
+          "val": 31
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:10:41 +0000 2018",
+          "val": 76
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:10:44 +0000 2018",
+          "val": 63
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:08:06 +0000 2018",
+          "val": 24
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:23:39 +0000 2018",
+          "val": 59
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:56:00 +0000 2018",
+          "val": 87
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:16:11 +0000 2018",
+          "val": 34
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:35:26 +0000 2018",
+          "val": 69
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:35:39 +0000 2018",
+          "val": 80
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:25:43 +0000 2018",
+          "val": 40
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:35:55 +0000 2018",
+          "val": 48
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:35:55 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:46:05 +0000 2018",
+          "val": 25
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:31 +0000 2018",
+          "val": 67
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:31 +0000 2018",
+          "val": 34
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:32 +0000 2018",
+          "val": 88
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:33 +0000 2018",
+          "val": 93
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:33 +0000 2018",
+          "val": 70
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:03:51 +0000 2018",
+          "val": 77
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:39 +0000 2018",
+          "val": 78
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:42 +0000 2018",
+          "val": 64
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:46 +0000 2018",
+          "val": 48
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:49 +0000 2018",
+          "val": 88
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:29:51 +0000 2018",
+          "val": 74
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:57 +0000 2018",
+          "val": 43
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:06:56 +0000 2018",
+          "val": 77
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:37:02 +0000 2018",
+          "val": 68
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:37:17 +0000 2018",
+          "val": 33
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:37:22 +0000 2018",
+          "val": 39
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:37:22 +0000 2018",
+          "val": 74
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 18:51:14 +0000 2018",
+          "val": 42
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:37:26 +0000 2018",
+          "val": 64
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:17:22 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:37:33 +0000 2018",
+          "val": 61
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:09:24 +0000 2018",
+          "val": 81
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:37:38 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:19:13 +0000 2018",
+          "val": 57
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:36:35 +0000 2018",
+          "val": 49
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:37:45 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:28:56 +0000 2018",
+          "val": 67
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:38:00 +0000 2018",
+          "val": 65
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:38:14 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:10:42 +0000 2018",
+          "val": 48
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:38:43 +0000 2018",
+          "val": 37
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:38:45 +0000 2018",
+          "val": 50
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:39:04 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:27:22 +0000 2018",
+          "val": 64
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:39:08 +0000 2018",
+          "val": 73
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:39:10 +0000 2018",
+          "val": 68
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:10:49 +0000 2018",
+          "val": 100
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:39:21 +0000 2018",
+          "val": 77
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:39:37 +0000 2018",
+          "val": 59
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:39:39 +0000 2018",
+          "val": 61
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:39:40 +0000 2018",
+          "val": 22
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:28:53 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:40:08 +0000 2018",
+          "val": 72
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:40:28 +0000 2018",
+          "val": 41
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:40:30 +0000 2018",
+          "val": 26
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:40:33 +0000 2018",
+          "val": 79
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:40:34 +0000 2018",
+          "val": 66
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:40:42 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:40:46 +0000 2018",
+          "val": 36
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:40:51 +0000 2018",
+          "val": 60
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:40:57 +0000 2018",
+          "val": 22
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:41:21 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:41:23 +0000 2018",
+          "val": 53
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:41:35 +0000 2018",
+          "val": 94
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:42:03 +0000 2018",
+          "val": 54
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:42:31 +0000 2018",
+          "val": 56
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:42:47 +0000 2018",
+          "val": 69
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:42:49 +0000 2018",
+          "val": 99
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:43:02 +0000 2018",
+          "val": 25
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:43:04 +0000 2018",
+          "val": 41
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:43:23 +0000 2018",
+          "val": 92
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:43:35 +0000 2018",
+          "val": 51
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:43:53 +0000 2018",
+          "val": 32
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:43:55 +0000 2018",
+          "val": 75
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:44:00 +0000 2018",
+          "val": 71
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:44:13 +0000 2018",
+          "val": 60
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:45:12 +0000 2018",
+          "val": 66
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:45:54 +0000 2018",
+          "val": 57
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:46:19 +0000 2018",
+          "val": 46
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:46:55 +0000 2018",
+          "val": 50
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:47:04 +0000 2018",
+          "val": 97
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:47:04 +0000 2018",
+          "val": 53
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:47:09 +0000 2018",
+          "val": 95
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:47:09 +0000 2018",
+          "val": 23
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:47:10 +0000 2018",
+          "val": 51
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:47:35 +0000 2018",
+          "val": 50
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:48:26 +0000 2018",
+          "val": 64
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:49:02 +0000 2018",
+          "val": 26
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:49:10 +0000 2018",
+          "val": 67
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:49:14 +0000 2018",
+          "val": 65
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:49:24 +0000 2018",
+          "val": 48
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:49:58 +0000 2018",
+          "val": 27
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:50:21 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:50:51 +0000 2018",
+          "val": 99
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:51:05 +0000 2018",
+          "val": 66
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:51:06 +0000 2018",
+          "val": 56
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:51:22 +0000 2018",
+          "val": 87
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:51:42 +0000 2018",
+          "val": 25
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:51:47 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:52:26 +0000 2018",
+          "val": 32
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:52:42 +0000 2018",
+          "val": 24
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:52:51 +0000 2018",
+          "val": 93
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:52:53 +0000 2018",
+          "val": 79
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:53:33 +0000 2018",
+          "val": 82
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:54:02 +0000 2018",
+          "val": 33
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:54:11 +0000 2018",
+          "val": 56
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:55:25 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:55:43 +0000 2018",
+          "val": 67
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:56:26 +0000 2018",
+          "val": 77
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:56:44 +0000 2018",
+          "val": 64
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:56:50 +0000 2018",
+          "val": 95
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:56:54 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:57:32 +0000 2018",
+          "val": 99
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:57:32 +0000 2018",
+          "val": 37
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:57:49 +0000 2018",
+          "val": 89
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:58:00 +0000 2018",
+          "val": 63
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:58:13 +0000 2018",
+          "val": 91
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:58:20 +0000 2018",
+          "val": 38
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:58:27 +0000 2018",
+          "val": 21
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:58:40 +0000 2018",
+          "val": 40
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:58:49 +0000 2018",
+          "val": 82
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:59:01 +0000 2018",
+          "val": 57
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:59:02 +0000 2018",
+          "val": 21
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:59:08 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:59:16 +0000 2018",
+          "val": 59
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:59:27 +0000 2018",
+          "val": 59
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:59:41 +0000 2018",
+          "val": 64
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 19:59:44 +0000 2018",
+          "val": 44
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:02 +0000 2018",
+          "val": 91
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:03 +0000 2018",
+          "val": 40
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:07 +0000 2018",
+          "val": 68
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:08 +0000 2018",
+          "val": 68
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:11 +0000 2018",
+          "val": 20
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:15 +0000 2018",
+          "val": 29
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:16 +0000 2018",
+          "val": 83
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:17 +0000 2018",
+          "val": 41
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:20 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:21 +0000 2018",
+          "val": 57
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:30 +0000 2018",
+          "val": 65
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:30 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:52 +0000 2018",
+          "val": 46
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:54 +0000 2018",
+          "val": 44
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:54 +0000 2018",
+          "val": 65
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:54 +0000 2018",
+          "val": 62
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:54 +0000 2018",
+          "val": 24
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:00:54 +0000 2018",
+          "val": 72
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:01:02 +0000 2018",
+          "val": 55
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:01:02 +0000 2018",
+          "val": 81
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:01:10 +0000 2018",
+          "val": 91
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:01:17 +0000 2018",
+          "val": 37
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:01:38 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:01:57 +0000 2018",
+          "val": 23
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:02:00 +0000 2018",
+          "val": 32
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:02:23 +0000 2018",
+          "val": 66
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:02:26 +0000 2018",
+          "val": 50
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:02:33 +0000 2018",
+          "val": 47
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:02:37 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:02:53 +0000 2018",
+          "val": 28
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:03:02 +0000 2018",
+          "val": 64
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:03:06 +0000 2018",
+          "val": 25
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:03:12 +0000 2018",
+          "val": 95
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:03:25 +0000 2018",
+          "val": 40
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:03:38 +0000 2018",
+          "val": 90
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:03:42 +0000 2018",
+          "val": 67
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:03:49 +0000 2018",
+          "val": 47
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:03:50 +0000 2018",
+          "val": 84
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:04:09 +0000 2018",
+          "val": 23
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:04:18 +0000 2018",
+          "val": 30
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:04:48 +0000 2018",
+          "val": 43
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:05:10 +0000 2018",
+          "val": 44
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:05:09 +0000 2018",
+          "val": 87
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:05:35 +0000 2018",
+          "val": 29
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:05:45 +0000 2018",
+          "val": 22
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:05:55 +0000 2018",
+          "val": 97
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:06:02 +0000 2018",
+          "val": 44
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:06:38 +0000 2018",
+          "val": 52
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:06:45 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:22:09 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:22:36 +0000 2018",
+          "val": 87
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:22:40 +0000 2018",
+          "val": 94
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:23:02 +0000 2018",
+          "val": 33
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:23:31 +0000 2018",
+          "val": 46
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:23:37 +0000 2018",
+          "val": 97
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:23:46 +0000 2018",
+          "val": 65
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:24:17 +0000 2018",
+          "val": 27
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:24:32 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:26:21 +0000 2018",
+          "val": 93
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:26:22 +0000 2018",
+          "val": 38
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:26:26 +0000 2018",
+          "val": 50
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:26:27 +0000 2018",
+          "val": 21
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:26:31 +0000 2018",
+          "val": 54
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:26:37 +0000 2018",
+          "val": 95
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:26:44 +0000 2018",
+          "val": 36
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:26:48 +0000 2018",
+          "val": 83
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:27:03 +0000 2018",
+          "val": 60
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:27:26 +0000 2018",
+          "val": 31
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:28:14 +0000 2018",
+          "val": 38
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:28:29 +0000 2018",
+          "val": 63
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:28:35 +0000 2018",
+          "val": 38
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:29:09 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:29:57 +0000 2018",
+          "val": 24
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:30:20 +0000 2018",
+          "val": 85
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:30:22 +0000 2018",
+          "val": 84
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:30:29 +0000 2018",
+          "val": 49
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:30:38 +0000 2018",
+          "val": 78
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:30:46 +0000 2018",
+          "val": 66
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:30:50 +0000 2018",
+          "val": 30
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:30:51 +0000 2018",
+          "val": 87
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:30:51 +0000 2018",
+          "val": 73
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:30:51 +0000 2018",
+          "val": 99
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:30:51 +0000 2018",
+          "val": 98
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:31:06 +0000 2018",
+          "val": 60
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:31:10 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:31:18 +0000 2018",
+          "val": 72
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:31:23 +0000 2018",
+          "val": 100
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:33:16 +0000 2018",
+          "val": 80
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:33:37 +0000 2018",
+          "val": 89
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:34:15 +0000 2018",
+          "val": 82
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:34:18 +0000 2018",
+          "val": 37
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:34:23 +0000 2018",
+          "val": 74
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:34:30 +0000 2018",
+          "val": 68
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:34:31 +0000 2018",
+          "val": 92
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:34:53 +0000 2018",
+          "val": 22
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:35:31 +0000 2018",
+          "val": 28
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:35:32 +0000 2018",
+          "val": 88
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:35:41 +0000 2018",
+          "val": 35
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:36:55 +0000 2018",
+          "val": 63
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:37:02 +0000 2018",
+          "val": 67
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:37:44 +0000 2018",
+          "val": 94
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:38:59 +0000 2018",
+          "val": 28
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:39:52 +0000 2018",
+          "val": 81
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:40:02 +0000 2018",
+          "val": 80
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:40:16 +0000 2018",
+          "val": 71
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:40:43 +0000 2018",
+          "val": 87
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:40:54 +0000 2018",
+          "val": 59
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:41:06 +0000 2018",
+          "val": 95
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:41:11 +0000 2018",
+          "val": 84
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:41:13 +0000 2018",
+          "val": 31
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:41:17 +0000 2018",
+          "val": 65
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:41:27 +0000 2018",
+          "val": 65
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:41:35 +0000 2018",
+          "val": 80
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:41:54 +0000 2018",
+          "val": 53
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:42:34 +0000 2018",
+          "val": 43
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:42:45 +0000 2018",
+          "val": 69
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:42:46 +0000 2018",
+          "val": 55
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:43:14 +0000 2018",
+          "val": 45
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:43:16 +0000 2018",
+          "val": 87
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:44:40 +0000 2018",
+          "val": 49
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:44:46 +0000 2018",
+          "val": 39
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:44:59 +0000 2018",
+          "val": 48
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:45:25 +0000 2018",
+          "val": 84
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:46:12 +0000 2018",
+          "val": 67
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:46:19 +0000 2018",
+          "val": 76
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:47:31 +0000 2018",
+          "val": 93
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:47:52 +0000 2018",
+          "val": 51
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:48:12 +0000 2018",
+          "val": 45
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:48:14 +0000 2018",
+          "val": 55
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:48:24 +0000 2018",
+          "val": 88
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:48:49 +0000 2018",
+          "val": 63
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:50:19 +0000 2018",
+          "val": 63
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:50:27 +0000 2018",
+          "val": 54
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:52:03 +0000 2018",
+          "val": 86
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:52:11 +0000 2018",
+          "val": 69
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:52:24 +0000 2018",
+          "val": 46
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:52:39 +0000 2018",
+          "val": 64
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:53:08 +0000 2018",
+          "val": 59
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:53:56 +0000 2018",
+          "val": 40
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:54:01 +0000 2018",
+          "val": 41
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:54:04 +0000 2018",
+          "val": 73
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:54:18 +0000 2018",
+          "val": 44
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:54:22 +0000 2018",
+          "val": 37
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:54:35 +0000 2018",
+          "val": 27
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:55:04 +0000 2018",
+          "val": 84
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:55:55 +0000 2018",
+          "val": 29
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:56:06 +0000 2018",
+          "val": 42
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:56:24 +0000 2018",
+          "val": 24
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:56:48 +0000 2018",
+          "val": 58
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 20:56:48 +0000 2018",
+          "val": 31
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 22:22:31 +0000 2018",
+          "val": 80
+        },
+        {
+          "col": "data",
+          "idx": "Fri Jul 27 22:23:06 +0000 2018",
+          "val": 51
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [
+    {
+      "fill": "color",
+      "offset": 0,
+      "properties": {},
+      "title": "Bitcoin"
+    }
+  ],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "stroke": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "strokeWidth": {
+                "value": 2
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "data.val",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "line"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "ordinal"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.val"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": "category20",
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}
